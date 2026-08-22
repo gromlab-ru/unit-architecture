@@ -1,0 +1,12 @@
+{
+  "name": "unit-architecture",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "npm run build:skill",
+    "build:skill": "node scripts/build-skill.mjs"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
