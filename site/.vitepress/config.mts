@@ -13,6 +13,7 @@ const documentationSidebar = [
       { text: 'Юниты', link: '/architecture/units' },
       { text: 'Колокация и рост', link: '/architecture/colocation' },
       { text: 'Физическая структура', link: '/architecture/structure' },
+      { text: 'Профиль проекта', link: '/architecture/project-profile' },
       { text: 'Слои', link: '/architecture/layers' },
       { text: 'Публичный API и фасеты', link: '/architecture/facets' },
       { text: 'Зависимости', link: '/architecture/dependencies' },
@@ -30,6 +31,7 @@ const documentationSidebar = [
     text: 'Примеры',
     items: [
       { text: 'Карта примеров', link: '/examples/' },
+      { text: 'Профиль React SPA', link: '/examples/react-spa-project-profile' },
       { text: 'Базовый юнит', link: '/examples/basic-unit' },
       { text: 'Рост через колокацию', link: '/examples/colocation-growth' },
       { text: 'Layout и widgets', link: '/examples/layout-projection' },
